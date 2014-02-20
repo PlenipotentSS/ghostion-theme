@@ -1,4 +1,5 @@
 # Ghostion
+<b>Edit:</b> This project is forked from AxianTheme, a free Ghost theme. In this customized version, I have modified small css and template content layout
 
 The default theme for [Ghostion](https://github.com/axiantheme/ghostion/).
 
